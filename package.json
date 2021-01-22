@@ -1,0 +1,16 @@
+{
+  "name": "codegen-ast",
+  "version": "1.0.0",
+  "description": "TS class code generation from AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codegen",
+    "ts-parser",
+    "typescript"
+  ],
+  "author": "sankarshanaj@gmail.com",
+  "license": "ISC"
+}
